@@ -1,4 +1,4 @@
-# K8s Express MongoDB Deployment
+# MongoDB and Mongo-Express on K8s 
 
 ## Project Description
 
